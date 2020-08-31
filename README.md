@@ -13,7 +13,7 @@ Use the ICAO code EGVZ to locate the airport on the Microsoft Flight Simulator m
 Unzip the folder "thegarner-airport-egvz-fortaugustus" and copy the folder: "thegarner-airport-eg13-glenforsaairfield" into your Microsoft Flight Simulator installation directory under the "Community" folder.
 
 # Features
-* Runway added but with no markings
+* Runway added, has no number markings - Keep an eye out for it from the air!
 * 3x Parking Stands
 * Couple of static aircraft
 * Fences surrounding the runway
