@@ -10,7 +10,7 @@ Use the ICAO code EGVZ to locate the airport on the Microsoft Flight Simulator m
 
 # Installation Steps
 
-Unzip the folder "thegarner-airport-egvz-fortaugustus" and copy the folder: "thegarner-airport-egvz-fortaugustus" into your Microsoft Flight Simulator installation directory under the "Community" folder.
+Unzip the folder "thegarner-airport-egvz-fortaugustus.zip" and copy the folder: "thegarner-airport-egvz-fortaugustus" into your Microsoft Flight Simulator installation directory under the "Community" folder.
 
 # Features
 * Runway added, has no number markings - Keep an eye out for it from the air!
