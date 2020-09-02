@@ -21,3 +21,7 @@ Unzip the folder "thegarner-airport-egvz-fortaugustus.zip" and copy the folder: 
 * Picnic tables for your packed lunch
 * Portable toilet in case you really need to use the loo.
 * Sadly, no sheep, but would love to add them at some point to add an extra bit of realism to this airfield. 
+
+# Version Changelog
+v1.1 (Released 2nd Sept 2020)
+* Applied fix to windsock and reduced/replaced static aircraft with generic static aircraft to improve performance and a workaround for the aircraft duplication issue if you choose the same plane that is parked at the airport. If you have the airfield already installed and do not care for these changes then you can ignore this update.
